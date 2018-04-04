@@ -26,4 +26,5 @@ OGNL的性能
 一些链接
 
     https://www.ibm.com/developerworks/cn/opensource/os-cn-ognl
+    http://java12345678.iteye.com/blog/2031790
 
